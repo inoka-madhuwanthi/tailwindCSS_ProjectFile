@@ -5,6 +5,7 @@ Unlike traditional CSS frameworks that focus on providing pre-designed component
 These utility classes can be directly applied to HTML elements to quickly style and position them, allowing for flexible and efficient UI development. 
 With Tailwind CSS, developers have granular control over the design and layout of their projects, enabling them to create unique and responsive designs with ease.
 
-![moneyhub](https://github.com/inoka-madhuwanthi/tailwindCSS_ProjectFile/assets/113633200/80fd049a-dd41-4316-b3b0-30d81aabfd38)
+![MoneyHub](https://github.com/inoka-madhuwanthi/tailwindCSS_ProjectFile/assets/113633200/01a4fe7b-f3d2-4be4-b22d-de374d10577f)
+
 
 The official website for Tailwind CSS is: [https://tailwindcss.com/](https://tailwindcss.com/)
